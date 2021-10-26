@@ -3,7 +3,7 @@
         <p class="text-center text-capitalize fs-1 fw-bold">MK template</p>
         <p class="text-secondary">This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties.
         The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored.</p>
-        <a href="#" class="btn text-uppercase text-light fw-bold px-sm-4 py-sm-3 Stars">Github Star</a>
+        <a href="https://github.com/mohammedmoutawakkil/MKTemplate" class="btn text-uppercase text-light fw-bold px-sm-4 py-sm-3 Stars">Github Star</a>
     </div>
 </template>
 
