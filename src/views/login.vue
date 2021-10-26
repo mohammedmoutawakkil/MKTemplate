@@ -3,8 +3,8 @@
        <!-- head -->
         <p class="fw-bold text-secondary">Sign in with</p>
         <div class="row px-4">
-            <a href="#" class="text-decoration-none text-dark fw-normal col-sm bg-light p-1 rounded px-0 me-sm-4" ><fa :icon="['fab','github']" class="fs-5 me-1"/>Githube</a>
-            <a href="#" class="text-decoration-none text-dark fw-normal col-sm bg-light p-1 rounded px-0 ms-sm-4" ><fa :icon="['fab','google']" class="fs-5 me-1 text-danger"/>Google</a>
+            <a href="#" class="text-decoration-none text-dark fw-normal col-sm bg-light p-1 rounded px-0 me-sm-4 mt-2 mt-md-2 mt-lg-0" ><fa :icon="['fab','github']" class="fs-5 me-1"/>Githube</a>
+            <a href="#" class="text-decoration-none text-dark fw-normal col-sm bg-light p-1 rounded px-0 ms-sm-4 mt-2 mt-md-2 mt-lg-0" ><fa :icon="['fab','google']" class="fs-5 me-1 text-danger"/>Google</a>
         </div> 
     </div>
     <hr>
