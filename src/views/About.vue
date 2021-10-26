@@ -13,7 +13,7 @@
                 <a href="#" class="btn text-uppercase text-light fw-bold px-sm-4 py-sm-3 Stars">Github Star</a>
             </div>
         <!-- Column -->
-            <div class="col-sm pb-3 slanted ">
+            <div class="col-sm pb-3 slanted mt-5 mt-md-5 mt-lg-0">
               <img :src="imgsrc" class="w-100 rounded" alt="about image ">
             </div>
     </div>
