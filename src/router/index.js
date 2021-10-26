@@ -3,7 +3,7 @@ import index from '../layouts/index.vue'
 
 
 const routes = [{
-    path: '/home',
+    path: '/',
     name: 'index',
     component: index,
     children: [{
