@@ -8,7 +8,7 @@
           <ul class="navbar-nav me-auto ps-sm-5 ms-sm-5">
             <!-- Home -->
             <li class="nav-item">
-              <router-link to="/home" class="nav-link fw-bold" tag="button"  active-class="active">Home</router-link> 
+              <router-link to="/" class="nav-link fw-bold" tag="button"  active-class="active">Home</router-link> 
             </li>
             <!-- Contact Us -->
             <li class="nav-item">
