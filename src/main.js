@@ -15,5 +15,5 @@ import 'bootstrap/scss/bootstrap.scss'
 // You can specify which plugins you need
 import { Tooltip, Toast, Popover } from 'bootstrap';
 
-// 5. Add additional custom code here
+// Add additional custom code here
 createApp(App).use(router, Tooltip, Toast, Popover).component('fa', FontAwesomeIcon).mount('#app');
