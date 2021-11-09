@@ -36,7 +36,7 @@
                                 <div class="container p-4 pb-0">
                                     <!-- Section: Form -->
                                     <section class="">
-                                    <form action="">
+                                    <form @submit.prevent>
                                         <!--Grid row-->
                                         <div class="row d-flex justify-content-center">
                                         <!--Grid column-->
