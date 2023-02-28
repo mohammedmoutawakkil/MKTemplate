@@ -242,7 +242,7 @@ import { reactive, toRefs } from 'vue'
                       p2:require('@/assets/images/p2.jpg'),
                       p3:require('@/assets/images/p3.jpg'),
                       p4:require('@/assets/images/p4.jpg'),
-                      Computer:require('@/assets/images/Computer.jpg'),
+                      Computer:require('@/assets/images/p3.png'),
                       grid:require('@/assets/images/grid.jpg'),
                     })
                     
