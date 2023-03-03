@@ -79,7 +79,7 @@
         <div class="px-5 b-0"><hr></div>
         <div class="text-center p-3 text-dark">
             © {{date}} Copyright :
-            <a class="text-secondary text-decoration-none" href="#"> Mohammed Moutawakkil</a>
+            <a class="text-secondary text-decoration-none" href="https://github.com/mohammedmoutawakkil"> Mohammed Moutawakkil</a>
         </div>
     </div>
 </div>
