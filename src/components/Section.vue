@@ -246,6 +246,7 @@ import { reactive, toRefs } from 'vue'
                       grid:require('@/assets/images/p3.png'),
                     })
                     
+                    
                 }
                 catch(error){
                 console.error(error);
