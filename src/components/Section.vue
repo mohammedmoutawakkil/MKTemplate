@@ -238,10 +238,10 @@ import { reactive, toRefs } from 'vue'
                 try{
                 //Check availability
                     profiles=reactive({
-                      p1:require('@/assets/images/p1.jpg'),
-                      p2:require('@/assets/images/p2.jpg'),
-                      p3:require('@/assets/images/p3.jpg'),
-                      p4:require('@/assets/images/p4.jpg'),
+                      p1:require('@/assets/images/p3.png'),
+                      p2:require('@/assets/images/p3.png'),
+                      p3:require('@/assets/images/p3.png'),
+                      p4:require('@/assets/images/p3.png'),
                       Computer:require('@/assets/images/p3.png'),
                       grid:require('@/assets/images/p3.png'),
                     })
