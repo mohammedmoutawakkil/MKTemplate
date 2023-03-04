@@ -6,7 +6,7 @@
     <righthead class="righthead col-sm d-none d-md-block "/>
     </div>
     <!-- Section -->
-    <Section class="row Section-bg" :style="{ 'backgroundImage': 'url(' + imgsrc + ')' }" />
+    <Section class="row Section-bg" :style="{ 'backgroundImage': 'url(' + imgsrc + ')' }" ></Section>
   </div>
 </template>
 <script>
@@ -25,7 +25,7 @@ export default {
             let imgsrc;
                 try{
                 //Check availability
-                    imgsrc=ref(require('@/assets/images/slanted-background.png'))
+                    imgsrc=ref(require('@/assets/images/p3.png'))
                 }
                 catch(error){
                 console.error(error);
