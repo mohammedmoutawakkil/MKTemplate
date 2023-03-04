@@ -25,7 +25,7 @@ export default {
             let imgsrc;
                 try{
                 //Check availability
-                    imgsrc=ref(require('@/assets/images/p3.png'))
+                    imgsrc=ref(require('@/assets/images/slanted-background.png'))
                 }
                 catch(error){
                 console.error(error);
